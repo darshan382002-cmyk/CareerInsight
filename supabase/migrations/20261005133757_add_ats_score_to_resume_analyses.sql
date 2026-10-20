@@ -1,0 +1,1 @@
+ALTER TABLE resume_analyses ADD COLUMN IF NOT EXISTS ats_score integer NOT NULL DEFAULT 0;

@@ -1,0 +1,1 @@
+ALTER TABLE student_profiles ADD COLUMN IF NOT EXISTS ats_score integer NOT NULL DEFAULT 0;
